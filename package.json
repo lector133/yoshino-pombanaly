@@ -1,0 +1,27 @@
+{
+  "name": "yoshino-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "axios": "^0.27.2",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "easy-presence": "^1.2.0-oops1",
+    "fs": "^0.0.1-security",
+    "node-html-parser": "^5.3.3",
+    "os": "^0.1.2",
+    "pidusage": "^3.0.2",
+    "puppeteer": "^14.3.0",
+    "puppeteer-core": "^13.6.0",
+    "puppeteer-extra": "^3.2.3"
+  }
+}
